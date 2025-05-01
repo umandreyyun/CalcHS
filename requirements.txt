@@ -1,0 +1,8 @@
+streamlit==1.32.0
+plotly==5.18.0
+pandas==2.1.4
+openpyxl==3.1.2
+matplotlib==3.8.2
+fpdf2==2.7.7
+sqlite3==2.6.0
+shutil==1.7.0
