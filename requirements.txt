@@ -3,6 +3,4 @@ plotly
 pandas
 openpyxl
 matplotlib
-fpdf2
-sqlite3
-shutil
+fpdf
